@@ -3,66 +3,68 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2018 - 2020`
+__Santa Rosa Junior College__, Associate of Science, Mathematics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2020 - 2022`
+__Sonoma State University__, Bachelor of Science, Applied Mathematics & Computer Science
 
-## Awards
+## Accomplishments
 
-`2012`
-Name of Award, Organization 
+`2020`
+Robert J. Coombs Mathematics Scholarship, Santa Rosa Junior College
 
-## Publications
+`2021`
+President, Women in Computer Science Club, Sonoma State University
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2022`
+Graduation with Distinction, Department of Mathematics & Statistics, Sonoma State University<br>
 
-### Journals
+`2022`
+Graduation wtih Distinction, Department of Computer Science, Sonoma State University<br>
 
-`1994`
-Article Title, Journal Title
+`2022`
+Cum Laude, Sonoma State University
 
-`1994`
-Article Title, Journal Title
+## Experience
 
-### Books
+`2021-2022`
+__Math & Computer Science Tutor__, Learning & Academic Resource Center, Sonoma State University
 
-`1994`
-Book Title, Journal Title
+- Led collaborative and independent work sessions with groups of 15+ college students
+- Provided hands-on support to students working on programming projects and mathematical concepts
+- Graded student assignments and provided personalized feedback for students
+- Guided students in their transition from lower to higher level mathematics, with an emphasis on proofs
 
-`1994`
-Book Title, Journal Title
+`2021, 2022`
+__Lead Teacher__, Aim High for High School
 
+- Taught at non-profit summer enrichment program for low-income middle school students
+- Taught science and math to classes of 20+ students
+- Introduced students to coding through free online games and services
+- Acted as a mentor to a high school intern
 
-## Presentations
+`2020-2021`
+__Student Researcher__, Koret Scholars Foundation, Sonoma State University
+- Designed and developed software for an interactive art exhibition
+- Collaborated with electrical engineering students to implement physical systems and maximize efficiency
+- Presented research findings at the Consortium of Public Liberal Arts Colleges (COPLAC) conference
 
-`1994`
-Presentation Title, Conference, Sonoma State, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+## Projects
+__Lexical Analyzer, C++__
+- Created with a focus on object-oriented concepts and organization
+- Used to verify the structure of HTML documents using tokenization
 
+__Regular Expression Verifier, Python__
+- Translates user-input regular expressions into different types of finite automata
+- Synthesized algorithms for expression verification
 
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
+__Computer Science Club Website, HTML & CSS__
+- Developed a basic, static HTML website as an entry into Sonoma State's NomaHacks Hackathon competition; earned 1st place
+- Used as a testing ground for learning about and improving skills in HTML, CSS and Bootstrap
 
 
 <!-- ### Footer
