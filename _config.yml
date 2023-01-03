@@ -9,7 +9,7 @@ logo: KATIE PELL
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Katie Pell
-  avatar: bio-photo.jpg
+  avatar: /images/bio-photo.jpg
   bio: "New graduate with an interest in software engineering and mathematical modeling"
   email: katiepell42@gmail.com
   # Do not include the @ symbol in your Twitter username
