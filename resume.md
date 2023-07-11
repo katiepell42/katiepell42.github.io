@@ -5,29 +5,27 @@ menutitle: Resume
 ---
 
 ## Education
+`2020 - 2022`
+__Sonoma State University__, Bachelor of Science, Applied Mathematics & Computer Science
 
 `2018 - 2020`
 __Santa Rosa Junior College__, Associate of Science, Mathematics
 
-`2020 - 2022`
-__Sonoma State University__, Bachelor of Science, Applied Mathematics & Computer Science
-
 ## Accomplishments
-
-`2020`
-Robert J. Coombs Mathematics Scholarship, Santa Rosa Junior College
-
-`2021`
-President, Women in Computer Science Club, Sonoma State University
-
 `2022`
-Graduation with Distinction, Department of Mathematics & Statistics, Sonoma State University<br>
+Cum Laude, Sonoma State University
 
 `2022`
 Graduation wtih Distinction, Department of Computer Science, Sonoma State University<br>
 
 `2022`
-Cum Laude, Sonoma State University
+Graduation with Distinction, Department of Mathematics & Statistics, Sonoma State University<br>
+
+`2021`
+President, Women in Computer Science Club, Sonoma State University
+
+`2020`
+Robert J. Coombs Mathematics Scholarship, Santa Rosa Junior College
 
 ## Experience
 
